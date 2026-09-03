@@ -4,8 +4,7 @@ N:Evans;Dylan;James;;
 FN:Dylan James Evans
 ORG:Texas A&M University
 TITLE:Mechanical Engineering Student
-EMAIL;TYPE=INTERNET:dylan.evans00@tamu.edu
+EMAIL;TYPE=INTERNET,HOME:dylan.evans00@tamu.edu
 URL:https://dylanevans00-coder.github.io/Dylan-evans/
-URL:https://www.linkedin.com/in/dylan-evans00
-ADR:;;College Station;TX;;;USA
+ADR;TYPE=HOME:;;College Station;TX;;;USA
 END:VCARD
